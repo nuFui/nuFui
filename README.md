@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **one day A = B** ...ikr, freaky 😬
 
+- Would need help with **rust-java interop on android using rust JNI; custom no-crap search engine implementation; other stuff**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tit_poplatnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tit_poplatnik" height="30" width="40" /></a>
