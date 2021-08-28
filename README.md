@@ -1,2 +1,2 @@
 # 🖖
-* currently learning `React Native` 🙈
+* currently *surfing* `React Native` 🙈
