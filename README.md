@@ -1,1 +1,2 @@
 # 🖖
+* currently learning `React Native` 🙈
